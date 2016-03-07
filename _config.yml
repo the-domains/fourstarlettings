@@ -1,0 +1,28 @@
+name: FourStarLettings
+favicon: null
+layout_spectrum: 0.7004350759088993
+typography_spectrum: 0.9433784654829651
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.47997790132649243
+  lightness: 0.6673246305435896
+  saturation: 0.937371869571507
+  rhythmicContrast: 0.6141508878208697
+purpose: []
