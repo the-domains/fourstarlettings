@@ -1,26 +1,27 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'http://www.fourstarlettings.com/Nerja/nerja_48_acapulco_playa_nerja_contact.html'
 inLanguage: null
 starred: false
 keywords: []
-description: 'Mob: +353 (0)87 2420061'
-datePublished: '2016-03-07T18:06:14.841Z'
-dateModified: '2016-03-07T18:05:00.268Z'
-author: []
+description: ''
+datePublished: '2016-03-07T18:38:02.452Z'
+dateModified: '2016-03-07T18:37:31.550Z'
 title: Contact Information
-sourcePath: _posts/2016-03-07-contact-information.md
-published: true
+author: []
 authors: []
 publisher:
-  name: fourstarlettings.com
-  domain: www.fourstarlettings.com
+  name: null
+  domain: null
   url: null
   favicon: null
-_context: 'http://schema.org'
+sourcePath: _posts/2016-03-07-contact-information.md
+published: true
+url: contact-information/index.html
 _type: Article
 
 ---
-Mob: +353 (0) 87 2420061
+Contact name: Mark Ryan  
+Contact E-mail: info@fourstarlettings.com  
+Contact number: +353 (0)87 242 0061
