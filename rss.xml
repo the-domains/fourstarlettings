@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[FourStarLettings]]></title>
+        <description><![CDATA[FourStarLettings]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 07 Mar 2016 16:10:23 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>This letting is located in the beautiful setting of Nerja, on the costa del sol in Spain. Nestled On the Spanish Mediterranean it's a bustling yet unspoiled fishing village. Full of fine restaurants, smart cafes, great beaches and bohemian shops.</p>]]></description>
+            <link>undefined057c8445-1dee-4fec-a517-4152b35a97a2/index.html</link>
+            <guid isPermaLink="false">057c8445-1dee-4fec-a517-4152b35a97a2</guid>
+            <pubDate>Mon, 07 Mar 2016 16:10:23 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
