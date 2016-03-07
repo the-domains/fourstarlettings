@@ -4,8 +4,15 @@
         <description><![CDATA[Ai-Beta FourStarLettings.com]]></description>
         <link>https://thegrid.ai/fourstarlettings/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 18:05:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2016 18:05:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/fourstarlettings/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Introduction]]></title>
+            <description><![CDATA[<article><h1>Introduction</h1><p>This letting is located in the beautiful setting of Nerja, on the costa del sol in Spain. Nestled On the Spanish Mediterranean it's a bustling yet unspoiled fishing village. Full of fine restaurants, smart cafes, great beaches and bohemian shops.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1ff6f085a1ac2d9506ef93ecafdb00d37357cc94.jpg"></article>]]></description>
+            <link>https://thegrid.ai/fourstarlettings/057c8445-1dee-4fec-a517-4152b35a97a2/index.html</link>
+            <guid isPermaLink="false">057c8445-1dee-4fec-a517-4152b35a97a2</guid>
+            <pubDate>Mon, 07 Mar 2016 18:05:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Location Information]]></title>
             <description><![CDATA[<article><h1>Location Information</h1><p>Nerja is located on the Spanish Costa del sol. On the Mediteranean east of Malaga, it's nearest city. It is roughly 5 hours 51 minutes from Madrid and 42 minutes from Malaga.  Many Airlines operate daly scheduled flights into Malaga. Please see www.skyscanner.net for info on flights.</p></article>]]></description>
@@ -33,13 +40,6 @@
             <link>http://www.fourstarlettings.com/Nerja/nerja_48_acapulco_playa_nerja_contact.html</link>
             <guid isPermaLink="false">2ace1a10-2123-493d-8df1-48010d48f943</guid>
             <pubDate>Mon, 07 Mar 2016 18:03:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Introduction]]></title>
-            <description><![CDATA[<article><h1>Introduction</h1><p>This letting is located in the beautiful setting of Nerja, on the costa del sol in Spain. Nestled On the Spanish Mediterranean it's a bustling yet unspoiled fishing village. Full of fine restaurants, smart cafes, great beaches and bohemian shops.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1ff6f085a1ac2d9506ef93ecafdb00d37357cc94.jpg"></article>]]></description>
-            <link>https://thegrid.ai/fourstarlettings/057c8445-1dee-4fec-a517-4152b35a97a2/index.html</link>
-            <guid isPermaLink="false">057c8445-1dee-4fec-a517-4152b35a97a2</guid>
-            <pubDate>Mon, 07 Mar 2016 18:03:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
