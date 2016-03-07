@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Mob: +353 (0)87 2420061'
-datePublished: '2016-03-07T18:03:30.701Z'
-dateModified: '2016-03-07T18:00:56.364Z'
+datePublished: '2016-03-07T18:06:14.841Z'
+dateModified: '2016-03-07T18:05:00.268Z'
 author: []
 title: Contact Information
 sourcePath: _posts/2016-03-07-contact-information.md
