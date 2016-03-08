@@ -4,7 +4,7 @@
         <description><![CDATA[Ai-Beta FourStarLettings.com]]></description>
         <link>https://thegrid.ai/fourstarlettings/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 12:33:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2016 16:36:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/fourstarlettings/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Google Maps]]></title>
@@ -12,13 +12,6 @@
             <link>https://www.google.com/maps/place/Nerja,+M%C3%A1laga,+Spain/@36.74363,-3.879075,16z/data=!4m2!3m1!1s0xd72251226dc9a3d:0xe8a542008b9b37b8?hl=en</link>
             <guid isPermaLink="false">d679cd9a-cc5c-4736-88c3-b861fce6a852</guid>
             <pubDate>Tue, 08 Mar 2016 12:32:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Location Information]]></title>
-            <description><![CDATA[<article><h1>Location Information</h1><p>Nerja is located on the Spanish Costa del sol. On the Mediterranean east of Malaga, it's nearest city. It is roughly 5 hours 51 minutes from Madrid and 42 minutes from Malaga.</p></article>]]></description>
-            <link>https://thegrid.ai/fourstarlettings/location-information/index.html</link>
-            <guid isPermaLink="false">54a60cc6-8f6f-4849-8043-c005086cd28e</guid>
-            <pubDate>Tue, 08 Mar 2016 12:23:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
