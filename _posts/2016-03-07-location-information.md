@@ -6,9 +6,30 @@ isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
-description: "Nerja is located on the Spanish Costa del sol. On the Mediterranean east of Malaga, it's nearest\_city. It is roughly 5 hours 51 minutes from Madrid and 42 minutes from Malaga."
-datePublished: '2016-03-08T16:36:35.919Z'
-dateModified: '2016-03-08T16:36:29.612Z'
+description: >-
+  Nerja is right on the coast at the foothills of the Sierra De Tejada mountains.
+  A location where luckily the mass tourism that exists elsewhere on the coast
+  never really took hold. A great mix of local and foreign holiday makers keep
+  Nerja real. Great selection of restaurants, shops and bars. Plenty to do and to
+  see locally and further afield.
+
+
+
+  On the Mediterranean with a long tourism history. The Costa del Sol has
+  something for everyone. From sun soaked beaches to seasonal ski resorts. From
+  stunning natural vistas to some of the best night life in Europe.
+
+
+
+  Malaga city is a great place to visit. Beautiful promenades and stunning parks.
+  Great shopping and plenty of Museums.
+
+
+
+  Water parks, theme parks, zoos and casinos are just some of the tourist
+  attractions on the Costa.
+datePublished: '2016-03-08T16:42:42.143Z'
+dateModified: '2016-03-08T16:42:35.653Z'
 title: Location Information
 author: []
 sourcePath: _posts/2016-03-07-location-information.md
@@ -22,7 +43,9 @@ publisher:
 _type: Blurb
 
 ---
-Nerja is located on the Spanish Costa del sol. On the Mediterranean east of Malaga, it's nearest city. It is roughly 5 hours 51 minutes from Madrid and 42 minutes from Malaga.
+## Nerja is located on the Spanish Costa del sol. 
+
+On the Mediterranean east of Malaga, it's nearest city. It is roughly 5 hours 51 minutes from Madrid and 42 minutes from Malaga.
 
 Nerja is right on the coast at the foothills of the Sierra De Tejada mountains. A location where luckily the mass tourism that exists elsewhere on the coast never really took hold. A great mix of local and foreign holiday makers keep Nerja real. Great selection of restaurants, shops and bars. Plenty to do and to see locally and further afield.
 On the Mediterranean with a long tourism history. The Costa del Sol has something for everyone. From sun soaked beaches to seasonal ski resorts. From stunning natural vistas to some of the best night life in Europe.
