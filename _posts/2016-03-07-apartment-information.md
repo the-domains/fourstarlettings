@@ -6,9 +6,9 @@ isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
-description: "This letting is a two bedroom apartment in Acapulco Playa with a\_contemporary feel. Located in the idyllic setting of Nerja, situated on the Spanish Mediterranean. The apartment is furnished to very high standards and has pool, beach and mountainside views. It is an ideal location for any holiday."
-datePublished: '2016-03-08T16:44:21.256Z'
-dateModified: '2016-03-08T16:44:13.583Z'
+description: 'Located in the idyllic setting of Nerja, situated on the Spanish Mediterranean. The apartment is furnished to very high standards and has pool, beach and mountainside views. It is an ideal location for any holiday.'
+datePublished: '2016-03-08T16:45:07.029Z'
+dateModified: '2016-03-08T16:44:43.834Z'
 title: Apartment Information
 author: []
 sourcePath: _posts/2016-03-07-apartment-information.md
