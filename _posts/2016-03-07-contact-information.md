@@ -1,25 +1,25 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-07T18:38:02.452Z'
-dateModified: '2016-03-07T18:37:31.550Z'
+description: "Contact name:\_Mark RyanContact E-mail:\_info@fourstarlettings.comContact number: +353 (0)87 242 0061"
+datePublished: '2016-03-08T12:25:38.590Z'
+dateModified: '2016-03-08T12:25:28.106Z'
 title: Contact Information
 author: []
+sourcePath: _posts/2016-03-07-contact-information.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-07-contact-information.md
-published: true
-url: contact-information/index.html
-_type: Article
+_type: Blurb
 
 ---
 Contact name: Mark Ryan  
