@@ -6,9 +6,9 @@ isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
-description: Two bed two bathroom front line apartment with excellent costal views.
-datePublished: '2016-03-08T12:25:19.199Z'
-dateModified: '2016-03-08T12:25:15.757Z'
+description: 'Modern 2 bed, 2 bath. Overlooking Salon beach and town center. '
+datePublished: '2016-03-08T16:46:04.104Z'
+dateModified: '2016-03-08T16:46:01.325Z'
 title: Property Description
 author: []
 sourcePath: _posts/2016-03-07-property-description.md
@@ -22,7 +22,7 @@ publisher:
 _type: Blurb
 
 ---
-Two bed two bathroom front line apartment with excellent costal views.
+## Two bed two bathroom front line apartment with excellent costal views.
 
 Modern 2 bed, 2 bath. Overlooking Salon beach and town center. 
 
