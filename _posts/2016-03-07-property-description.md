@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Two bed two bathroom front line apartment with excellent costal views.
-datePublished: '2016-03-08T11:37:18.218Z'
-dateModified: '2016-03-08T11:37:07.080Z'
+datePublished: '2016-03-08T12:25:19.199Z'
+dateModified: '2016-03-08T12:25:15.757Z'
 title: Property Description
 author: []
 sourcePath: _posts/2016-03-07-property-description.md
