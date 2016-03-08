@@ -28,8 +28,8 @@ description: >-
 
   Water parks, theme parks, zoos and casinos are just some of the tourist
   attractions on the Costa.
-datePublished: '2016-03-08T16:42:42.143Z'
-dateModified: '2016-03-08T16:42:35.653Z'
+datePublished: '2016-03-08T16:44:53.838Z'
+dateModified: '2016-03-08T16:44:51.528Z'
 title: Location Information
 author: []
 sourcePath: _posts/2016-03-07-location-information.md
