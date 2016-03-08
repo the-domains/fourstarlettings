@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: Two bed two bathroom front line apartment with excellent costal views.
-datePublished: '2016-03-08T11:35:46.399Z'
-dateModified: '2016-03-08T11:33:55.328Z'
+datePublished: '2016-03-08T11:37:18.218Z'
+dateModified: '2016-03-08T11:37:07.080Z'
 title: Property Description
 author: []
 sourcePath: _posts/2016-03-07-property-description.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: property-description/index.html
-_type: Article
+_type: Blurb
 
 ---
 Two bed two bathroom front line apartment with excellent costal views.
