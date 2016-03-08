@@ -7,20 +7,20 @@ inLanguage: null
 starred: false
 keywords: []
 description: '36.74363,-3.879075'
-datePublished: '2016-03-08T12:32:44.131Z'
-dateModified: '2016-03-08T12:32:34.832Z'
+datePublished: '2016-03-08T16:43:30.301Z'
+dateModified: '2016-03-08T16:43:27.910Z'
 author: []
 related: []
 app_links: []
 title: Google Maps
+sourcePath: _posts/2016-03-08-google-maps.md
+published: true
 authors: []
 publisher:
   name: Google Maps
   domain: www.google.com
   url: 'http://google.com/maps'
   favicon: 'https://www.google.com/images/branding/product/ico/maps_32dp.ico'
-sourcePath: _posts/2016-03-08-google-maps.md
-published: true
 _type: Place
 _context: 'http://schema.org'
 
