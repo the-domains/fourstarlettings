@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-07T18:32:55.430Z'
-dateModified: '2016-03-07T18:31:36.252Z'
+description: "Nerja is located on the Spanish Costa del sol. On the Mediterranean east of Malaga, it's nearest\_city. It is roughly 5 hours 51 minutes from Madrid and 42 minutes from Malaga."
+datePublished: '2016-03-08T11:35:30.893Z'
+dateModified: '2016-03-08T11:35:02.479Z'
 title: Location Information
 author: []
 sourcePath: _posts/2016-03-07-location-information.md
